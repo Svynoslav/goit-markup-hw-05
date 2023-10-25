@@ -420,7 +420,7 @@ img {
     color: #ffffff;
 }
 .footer-input::placeholder {
-    color #ffffff;
+    color: #ffffff;
 }
 .footer-submit {
     min-width: 165px;
